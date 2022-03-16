@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+}
+
+.webgl {
+    outline: none;
+    transform: scale(20);
+    image-rendering: pixelated;
+    transform-origin: top left;
+}

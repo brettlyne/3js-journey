@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Av";
+    src: url("./avenir-700.woff2") format("woff2");
+}
+
+body {
+    font-family: "Av";
+}
